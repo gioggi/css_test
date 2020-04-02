@@ -1,3 +1,6 @@
+There is a file src/MyNode.js with the js library and this is the css test
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
